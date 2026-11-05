@@ -2,7 +2,7 @@ name: otel_taxjar
 description: >-
   OpenTelemetry instrumentation for taxjar by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use taxjar.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_taxjar
 homepage: https://dartastic.io
 
